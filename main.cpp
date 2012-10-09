@@ -9,6 +9,7 @@ int main()
     //kiontamuju apsirashymas
     double f,x;   // j-jos reiksmes ir argumentas x
     int n;      // uzdavinio dimensija
-    int xSprendin; // argumento sprendinys
+    int xSprendin; //  sprendinys
+    int fSprend;    // uzdavinio sprendinys
     return 0;
 }
